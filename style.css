@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#h{
+    color:white;
+    font-size:x-large;
+    font-weight: bold;
+    font-family: cursive;
+}
+body{
+    background-size: cover;
+}
+#f{
+    padding: 250px;
+    padding-top: 80px;
+    margin: 50px;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}

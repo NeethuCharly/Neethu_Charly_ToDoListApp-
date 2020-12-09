@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#h{
+    color:white;
+    font-size:x-large;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+body{
+    background-size: cover;
+}
+#head{
+    padding:30px;
+    padding-left: 350px;
+    color:black;
+    border: solid;
+    border-color:black;
+    background-color: rgb(152, 207, 209);
+    font-style: italic;
+    font-family: cursive;
+    font-weight: bolder;
+}
+#te{
+    border:solid;
+    border-color: cadetblue;
+}
